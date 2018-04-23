@@ -4,7 +4,7 @@
 #
 Name     : R-LearnBayes
 Version  : 2.15.1
-Release  : 4
+Release  : 5
 URL      : https://cran.r-project.org/src/contrib/LearnBayes_2.15.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/LearnBayes_2.15.1.tar.gz
 Summary  : Functions for Learning Bayesian Inference
